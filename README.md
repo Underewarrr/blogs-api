@@ -1,5 +1,7 @@
 # Projeto Blogs API 📝🗒
 
+# Em construç
+
 Consiste em uma API de banco de dados para produção de conteúdo para um blog. 
 
 * Construída com Node.js, Express, Sequelize com MySQL e Docker
